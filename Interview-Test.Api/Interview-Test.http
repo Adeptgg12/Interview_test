@@ -1,0 +1,12 @@
+@Interview_Test_HostAddress = https://localhost:44307
+@Interview_Test_HostDocker = http://localhost:8000
+
+### Test Expect Result 1
+GET {{Interview_Test_HostDocker}}/api/User/GetUserById/user01/
+Accept: application/json
+
+### Test Expect Result 2
+GET {{Interview_Test_HostDocker}}/api/User/GetUserById/user02/
+Accept: application/json
+
+###

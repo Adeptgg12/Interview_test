@@ -1,0 +1,15 @@
+C:\Users\overk\RiderProjects\Interview-Test1\Interview-Test\Interview-Test.Infrastructure\bin\Debug\net8.0\Interview-Test.Infrastructure.deps.json
+C:\Users\overk\RiderProjects\Interview-Test1\Interview-Test\Interview-Test.Infrastructure\bin\Debug\net8.0\Interview-Test.Infrastructure.runtimeconfig.json
+C:\Users\overk\RiderProjects\Interview-Test1\Interview-Test\Interview-Test.Infrastructure\bin\Debug\net8.0\Interview-Test.Infrastructure.dll
+C:\Users\overk\RiderProjects\Interview-Test1\Interview-Test\Interview-Test.Infrastructure\bin\Debug\net8.0\Interview-Test.Infrastructure.pdb
+C:\Users\overk\RiderProjects\Interview-Test1\Interview-Test\Interview-Test.Infrastructure\obj\Debug\net8.0\Interview-Test.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\overk\RiderProjects\Interview-Test1\Interview-Test\Interview-Test.Infrastructure\obj\Debug\net8.0\Interview-Test.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\overk\RiderProjects\Interview-Test1\Interview-Test\Interview-Test.Infrastructure\obj\Debug\net8.0\Interview-Test.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\overk\RiderProjects\Interview-Test1\Interview-Test\Interview-Test.Infrastructure\obj\Debug\net8.0\Interview-Test.Infrastructure.AssemblyInfo.cs
+C:\Users\overk\RiderProjects\Interview-Test1\Interview-Test\Interview-Test.Infrastructure\obj\Debug\net8.0\Interview-Test.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\overk\RiderProjects\Interview-Test1\Interview-Test\Interview-Test.Infrastructure\obj\Debug\net8.0\Interview-Test.Infrastructure.sourcelink.json
+C:\Users\overk\RiderProjects\Interview-Test1\Interview-Test\Interview-Test.Infrastructure\obj\Debug\net8.0\Interview-Test.Infrastructure.dll
+C:\Users\overk\RiderProjects\Interview-Test1\Interview-Test\Interview-Test.Infrastructure\obj\Debug\net8.0\refint\Interview-Test.Infrastructure.dll
+C:\Users\overk\RiderProjects\Interview-Test1\Interview-Test\Interview-Test.Infrastructure\obj\Debug\net8.0\Interview-Test.Infrastructure.pdb
+C:\Users\overk\RiderProjects\Interview-Test1\Interview-Test\Interview-Test.Infrastructure\obj\Debug\net8.0\Interview-Test.Infrastructure.genruntimeconfig.cache
+C:\Users\overk\RiderProjects\Interview-Test1\Interview-Test\Interview-Test.Infrastructure\obj\Debug\net8.0\ref\Interview-Test.Infrastructure.dll

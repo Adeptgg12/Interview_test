@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Interview-Test.GatewayApi.props" />
+</Project>
